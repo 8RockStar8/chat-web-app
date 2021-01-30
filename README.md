@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Chat web app, getting started with Create React App and react-chat-engine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
